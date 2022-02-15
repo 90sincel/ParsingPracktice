@@ -1,0 +1,40 @@
+Dr. Smith
+Dr. Patel
+Dr. Wang
+Dr. Ivanova
+
+M1 Smith	
+S 10.00
+E 11.00
+
+M2 Patel
+S 10.00
+E 11.00
+
+M3 Wang
+S 10.00
+E 10.30
+
+M4 Ivanova
+S 13.30
+E 14.00
+
+M5 Patel
+S 13.30
+E 14.00
+
+M6 Smith
+S 13.00
+E 14.00
+
+M7 Wang
+S 13.00
+E 14.00
+
+M8 Smith
+S 13.00
+E 14.00
+
+M9 Wang
+S 13.00
+E 14.00
